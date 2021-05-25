@@ -1,2 +1,2 @@
-Joey's first file modified after first commit - in master
-Joey's second branch
+Joey changed master joey.txt
+for merge
